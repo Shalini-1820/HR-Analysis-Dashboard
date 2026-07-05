@@ -58,7 +58,8 @@ This project is an interactive HR Analytics Dashboard developed using Power BI. 
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+ <img width="970" height="547" alt="Screenshot 2026-07-01 135113" src="https://github.com/user-attachments/assets/4155b158-7827-47c7-8b6a-11cf1cb834a0" />
+
 
 ---
 
